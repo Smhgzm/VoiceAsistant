@@ -1,0 +1,1 @@
+This is a voice assistant project that listens your commands and interpretates, then acts according to them.
